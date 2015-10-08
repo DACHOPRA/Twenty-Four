@@ -1,1 +1,1 @@
-ihi
+Twenty Four is an 8x3 'Analog'clock display designed using gumstix board and Raspberry pie. This project was developed as a part of EC535 Introduction to Embedded Systems course, at Boston University.
